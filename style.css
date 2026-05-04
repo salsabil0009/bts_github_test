@@ -50,3 +50,37 @@ p {
     line-height: 1.6;
     font-size: 15px;
 }
+
+/* Nouveau bloc : Pourquoi utiliser Git ? */
+.div4 {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 25px 35px;
+    background: #111827;
+    border-radius: 12px;
+    border-left: 6px solid #f59e0b;   /* orange */
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.4);
+}
+
+/* Nouveau bloc : Pourquoi utiliser GitHub ? */
+.div5 {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 25px 35px;
+    background: #111827;
+    border-radius: 12px;
+    border-left: 6px solid #ec4899;   /* rose */
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.4);
+}
+
+.div4 h2,
+.div5 h2 {
+    color: #f9fafb;
+    margin-bottom: 10px;
+}
+
+.div4 p,
+.div5 p {
+    line-height: 1.6;
+    font-size: 15px;
+}
